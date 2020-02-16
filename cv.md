@@ -13,31 +13,31 @@ I do not believe in test-last approach. I don't believe that one can test qualit
 **To make this happen:**
   -  I talk at conferences and share my ideas and know-how
   -  I publish my ideas and know-how on the internet
-  -  I provide workshops at the conferences and on requests where I show how my ideas and know-how can be used on practices
+  -  I provide workshops at the conferences and on requests where I show how my ideas and know-how can be used on practice
 
 ## About me
-All of the above are areas of my professional interest and expertise. I started my professional path as Test Engineer, was testing and developing test tools for more than 5 years and finally was promoted to a management position. After joining a Toptal, one of the best companies I have ever seen I was given a unique opportunity to start my Software Craftsperson journey and work with the best of the best engineers worldwide.
+All of the above are areas of my professional interest and expertise. I started my professional path as Test Engineer, was testing and developing test tools for more than 5 years and finally was promoted to a leadership position. After joining a Toptal, one of the best companies I have ever had a chance to work with, I was given a unique opportunity to start my Software Craftsperson journey and work with the best of the best engineers worldwide.
 
-At the moment I am yet on another exciting journey exploring DevOps philosophy and toolchain at Xilinx, UK.
+At the moment I am on yet another exciting journey exploring DevOps philosophy and toolchain at Xilinx, UK.
 
 ## Tools and technologies I have used
 
-Throughout my career on numerous occasions, I had do drastically change the tools that I use. I am more than surprised when someone requires knowledge of a particular tool from an engineer with more than 5 years of experience.
+On numerous occasions throughout my career I had to change the tools I use. I am more than surprised when someone requires knowledge of a particular tool from an engineer with more than 5 years of experience.
 
 The best tool that I have ever had to use is the thing that sits on my shoulders. However, I have also worked with PHP, VB.Net, SQL, Java, C#, Python, Groovy, JavaScript
 
 Projects that I worked with were anything from Web-based to Desktop applications; from E-Commerce to AI and Data Analysis.
 
 ## My professional experience
-**Senior Software Engineer**, at Xilinx
-*Cambridge, UK (Sep 2019 - till now)
+**Senior Software Engineer**, at Xilinx  
+*Cambridge, UK (Sep 2019 - till now)*  
 
-**QA Automation Engineer**, contractor at Toptal
-*Remote (Apr 2018 - Sep 2019)
+**QA Automation Engineer**, contractor at Toptal  
+*Remote (Apr 2018 - Sep 2019)*  
 Software Craftsperson - doing whatever is needed for successful product development.
 Leading QA strategy and helping other Craftspeople to enhance their QA skills.
 
-**Lead QA Automation Engineer** at WorkFusion
+**Lead QA Automation Engineer** at WorkFusion  
 *Minsk, Belarus (Jun 2017 - Apr 2018)*  
 Test automation technical lead, XP practices advocate and Scrum master.
 
@@ -52,13 +52,13 @@ Responsibilities:
 
 Technologies: Java, Spring, Serenity, Selenium, JavaScript, REST
 
-**Lead Test Automation Engineer** at MeteoGroup via EPAM Systems
+**Lead Test Automation Engineer** at MeteoGroup via EPAM Systems  
 *Minsk, Belarus (Dec 2017 - Jun 2017)*  
 Technical lead of a distributed Scrum team. Vast responsibilities, including process definition, architecture definition, BA activities, refactoring, acceptance testing. From the development standpoint, spent most of the time refactoring and increasing unit-test coverage of a huge legacy codebase.
 
 Technologies: C#, WPF
 
-**Lead Test Automation Engineer** at Travix via EPAM Systems
+**Lead Test Automation Engineer** at Travix via EPAM Systems  
 *Minsk, Belarus (Jan 2016 - Dec 2016)*  
 Responsible for test process definition, team coaching and test automation framework development. Assisting in setting-up ATDD process.
 
@@ -71,7 +71,7 @@ Responsible for developing, maintaining training materials and delivering traini
   -  Web Services testing
   -  Web Services automated checking
 
-**Software Development Engineer in Test** at Expedia via EPAM Systems
+**Software Development Engineer in Test** at Expedia via EPAM Systems  
 *Minsk, Belarus (Jul 2012 - Jan 2016)*  
 A member of a cross-functional Scrum team with a special focus on test tools development and QA activities. Subsequently, started to perform as a key member of the team driving QA and test tools development.
 
@@ -123,7 +123,6 @@ Major achievements:
 Master degree, Human resources management/Personnel administration  
 *2014-2016*
 
-
 **Belarusian State University of Informatics and Radioelectronics**  
 Specialist degree, Electrical  and electronics engineering  
 *2009-2014*
@@ -132,13 +131,12 @@ Specialist degree, Electrical  and electronics engineering
 Coming soon
 
 ## Some of the open-source projects
-Slacker2 (fork of Slacker)  
-Pr-analyzer  
-just-config
+[Slacker2 (fork of Slacker)](https://pypi.org/project/slacker2/)  
+[Pr Analyzer](https://pypi.org/project/pr-analyzer/)  
+[just-config](https://pypi.org/project/just-config/)
 
 ## Network profiles
-[Linkedin](https://www.linkedin.com/in/alexpushkarev)  
+[LinkedIn](https://www.linkedin.com/in/alexpushkarev)  
 [Public speaker profile](https://sessionize.com/aqaguy)  
 [Github](https://github.com/senpay)  
 [Stackexchange](https://stackexchange.com/users/9934875/alexander-pushkarev?tab=accounts)
-
