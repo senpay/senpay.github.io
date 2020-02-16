@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-time-machine
+title: Alexander Pushkarev's Hub
+description: Lessons learned in software development, testing and automated checking
+show_downloads: "false"
+google_analytics: UA-158662472-1

@@ -1,7 +1,7 @@
 # Alexander Pushkarev
 ![Alexander Pushkarev](photo.png)
 
-### Development-focused tester && test-focused developer. Software craftsperson.
+## Development-focused tester && test-focused developer. Software craftsperson.
 
 I do not believe in test-last approach. I don't believe that one can test quality-in. I think that the best way to efficiently and cost-effectively improve product quality is to change the way we:
   -  Define what should be implemented (and make sure this should be implemented at all)
@@ -15,16 +15,16 @@ I do not believe in test-last approach. I don't believe that one can test qualit
   -  I publish my ideas and know-how on the internet
   -  I provide workshops at the conferences and on requests where I show how my ideas and know-how can be used on practices
 
-### What I am passioned about
+## What I am passioned about
 Coming soon
 
-### Tools and technologies I have used
+## Tools and technologies I have used
 Coming soon
 
-### My professional experience
+## My professional experience
 Coming soon
 
-### My education
+## My education
 **Belarusian State University**  
 Master degree, Human resources management/Personnel administration  
 *2014-2016*
@@ -34,15 +34,15 @@ Master degree, Human resources management/Personnel administration
 Specialist degree, Electrical  and electronics engineering  
 *2009-2014*
 
-### Publications history
+## Publications history
 Coming soon
 
-### Some of the open-source projects
+## Some of the open-source projects
 Slacker2 (fork of Slacker)  
 Pr-analyzer  
 just-config
 
-### Network profiles
+## Network profiles
 [Linkedin](https://www.linkedin.com/in/alexpushkarev)  
 [Public speaker profile](https://sessionize.com/aqaguy)  
 [Github](https://github.com/senpay)  
