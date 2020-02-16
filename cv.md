@@ -29,7 +29,94 @@ The best tool that I have ever had to use is the thing that sits on my shoulders
 Projects that I worked with were anything from Web-based to Desktop applications; from E-Commerce to AI and Data Analysis.
 
 ## My professional experience
-Coming soon
+**Senior Software Engineer**, at Xilinx
+*Cambridge, UK (Sep 2019 - till now)
+
+**QA Automation Engineer**, contractor at Toptal
+*Remote (Apr 2018 - Sep 2019)
+Software Craftsperson - doing whatever is needed for successful product development.
+Leading QA strategy and helping other Craftspeople to enhance their QA skills.
+
+**Lead QA Automation Engineer** at WorkFusion
+*Minsk, Belarus (Jun 2017 - Apr 2018)*  
+Test automation technical lead, XP practices advocate and Scrum master.
+
+Responsibilities:
+  -  Testing and test automation process definition within the Scrum team and beyond
+  -  Test automation tools development
+  -  Test automation framework maintenance and refactoring
+  -  Code reviews
+  -  Pair programming
+  -  Team coaching
+  -  Working on a product with a goal to increase unit and integration test coverage, refactoring
+
+Technologies: Java, Spring, Serenity, Selenium, JavaScript, REST
+
+**Lead Test Automation Engineer** at MeteoGroup via EPAM Systems
+*Minsk, Belarus (Dec 2017 - Jun 2017)*  
+Technical lead of a distributed Scrum team. Vast responsibilities, including process definition, architecture definition, BA activities, refactoring, acceptance testing. From the development standpoint, spent most of the time refactoring and increasing unit-test coverage of a huge legacy codebase.
+
+Technologies: C#, WPF
+
+**Lead Test Automation Engineer** at Travix via EPAM Systems
+*Minsk, Belarus (Jan 2016 - Dec 2016)*  
+Responsible for test process definition, team coaching and test automation framework development. Assisting in setting-up ATDD process.
+
+Technologies: Java, Spring, REST, SOAP, JBehave
+
+**Internal trainer** at EPAM Systems  
+*Minsk, Belarus (Aug 2014 - Jan 2016)*  
+Responsible for developing, maintaining training materials and delivering trainings and coaching sessions for the following topics:
+  -  Web Services (REST, SOAP, POX-services, etc)
+  -  Web Services testing
+  -  Web Services automated checking
+
+**Software Development Engineer in Test** at Expedia via EPAM Systems
+*Minsk, Belarus (Jul 2012 - Jan 2016)*  
+A member of a cross-functional Scrum team with a special focus on test tools development and QA activities. Subsequently, started to perform as a key member of the team driving QA and test tools development.
+
+Major achievements:
+  -  Release regression optimization which allowed to decrease Release regression time by 50%
+  -  On-call support leadership, serving as a role model for other team members
+
+Technologies: Java, Spring, REST, RabbitMQ, Python, Flask, Splunk
+
+
+**QA Engineer** at Thomson Routers via EPAM Systems  
+*Minsk, Belarus (Aug 2010 - Jul 2012)*  
+Responsible for all  QA activities as a single QA engineer on a project in financial domain.
+
+Responsibilities:
+  -  Test strategy and Test process, Test planning
+  -  Scheduling, estimating and tracking QA activities
+  -  Release regression and final sign-off
+  -  Tool-assisted testing and test tools development.
+
+Technologies: VB.Net, Python, K+ SQL
+
+
+**Software Developer** at Aicnyna-Plus  
+*Minsk, Belarus (Oct 2008 - Jul 2010)*  
+Corporate web resources&services (financial transactions tracking, hardware integration and user database administration) support and development. I was in charge of full-stack development activities, such as:
+  -  gathering requirements
+  -  architecture definition
+  -  end-to-end implementation from coding and testing to production deployment and monitoring.
+
+Major achievements:
+  -  systematization of customer requests workflow in an internal ERP system
+  -  implementation of several brand-new (at the time) payment system facades
+  -  development, launch and maintenance of new companies web-pages
+
+Technologies: PHP, MySQL, SOAP
+
+**System administrator** at Nirvala-Plus  
+*Saint-Petersburg, Russia (Jan 2008 - Oct 2008)*  
+My responsibilities were the company's network and users support. Besides, I had occasional tasks with corporate web portal development and maintenance.
+
+Major achievements:
+  -  complete modernization of the company's LAN infrastructure
+  -  switch from existent proxy proprietary solution to the open-source Squid proxy server
+  -  launch and maintenance of the company's online trading web platform
 
 ## My education
 **Belarusian State University**  
