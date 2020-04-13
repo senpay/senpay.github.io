@@ -21,8 +21,10 @@ Welcome to Alexander Pushkarev personal web page! The most important and interes
 [Feature test model](https://senpay.github.io/ta/ftm/feature_tests)  
 [An example of Subcutaneous test pattern](http://aqaguy.blogspot.com/2019/10/getting-most-of-you-automated-checks.html)
 
+<hr>
 
-#### Coming soon:
+### Coming soon:
 Characterization tests  
 An example of Layered quality-gates approach  
-Clean-architecture of the infrastructure and CI/CD code
+Clean-architecture of the infrastructure and CI/CD code  
+Test strategy/Test plan document example
