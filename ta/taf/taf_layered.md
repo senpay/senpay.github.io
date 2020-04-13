@@ -26,4 +26,4 @@ From my perspective, it would be better to tell that framework consists of two l
 
 In addition to this page you may also have a look at the implementation example:
 [http://aqaguy.blogspot.com.by/2018/02/test-automation-framework-architecture.html](http://aqaguy.blogspot.com.by/2018/02/test-automation-framework-architecture.html)  
-It may be also interesting to have a look at two-layer variation" [http://aqaguy.blogspot.com/p/test-automation-framework-architecture_16.html](http://aqaguy.blogspot.com/p/test-automation-framework-architecture_16.html)
+It may be also interesting to have a look at two-layer variation: [http://aqaguy.blogspot.com/p/test-automation-framework-architecture_16.html](http://aqaguy.blogspot.com/p/test-automation-framework-architecture_16.html)
