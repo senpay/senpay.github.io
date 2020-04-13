@@ -23,7 +23,7 @@ The other thing is that dividing code into simple, digestible parts increases ma
 #### Most prominent test automation framework architecture types
 
    * [No architecture](taf_no_architecture.md)
-   * Layered
+   * [Layered](taf_layered.md)
    * Layered pluggable
    * Hexagonal
 
