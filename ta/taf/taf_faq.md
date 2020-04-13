@@ -18,9 +18,9 @@ POM is pretty low-level pattern that suggests to hide Selenium-touching code und
 There's a huge difference between architectural patterns and low-level structural pattern like POM. Architectural patterns suggests how we should structure whole Test Automation Solution. In contrast, POM scope is limited only to several classes.  
 n-Layered/n-Tiered architectural patterns (as well as others) are not new and not here to replace POM. In contrast, they usually utilize patterns like POM on a lower lever of abstraction.  
 Some more sources of information:
-  * Layered Architecture for Test Automation
-  * n-Tiered Test Automation Architecture for Agile Software Systems
-  * What is test automation architecture
+  * [Layered Architecture for Test Automation](https://www.infoq.com/articles/layered-test-automatation/)
+  * [n-Tiered Test Automation Architecture for Agile Software Systems](https://www.sciencedirect.com/science/article/pii/S1877050914001045)
+  * [What is test automation architecture]()
 
 #### Why Page Object is a broken concept ([original post](http://aqaguy.blogspot.com/2017/08/the-broken-concept-of-page-object-or.html))?
 It is not, actually. I am not a big fan of POM (Page Object Model), I prefer to use more generic Page Wrapper/Adapter instead. The reason I claimed that "POM is a broken concept" is because often we could invest more into system testability and use [no-architecture](taf_no_architecture.md).  
