@@ -13,8 +13,16 @@ Welcome to Alexander Pushkarev personal web page! The most important and interes
 [Introduction](https://senpay.github.io/ta/taf/taf_intro)  
 [No architecture](https://senpay.github.io/ta/taf/taf_no_architecture)  
 [Layered architecture](https://senpay.github.io/ta/taf/taf_layered)  
+[Layered architecture examples](http://aqaguy.blogspot.com/p/blog-page_26.html)
 [FAQ](https://senpay.github.io/ta/taf/taf_faq)  
 
 
 #### Know-hows
-[Feature test model](https://senpay.github.io/ta/ftm/feature_tests)
+[Feature test model](https://senpay.github.io/ta/ftm/feature_tests)  
+[An example of Subcutaneous test pattern](http://aqaguy.blogspot.com/2019/10/getting-most-of-you-automated-checks.html)
+
+
+#### Coming soon:
+Characterization tests  
+An example of Layered quality-gates approach  
+Clean-architecture of the infrastructure and CI/CD code
