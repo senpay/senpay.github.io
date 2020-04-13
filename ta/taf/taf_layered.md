@@ -1,8 +1,5 @@
 ## Test automation framework architecture: Layered architecture
 
-In addition to this page you may also have a look at the implementation example:
-[http://aqaguy.blogspot.com.by/2018/02/test-automation-framework-architecture.html](http://aqaguy.blogspot.com.by/2018/02/test-automation-framework-architecture.html)
-
 Probably the most popular architecture pattern used for test automation frameworks (TAF) is layered architecture. This pattern is so well known that on job interviews for some companies when they ask you about TAF architecture you are supposed to describe this one. If you don't - they think you know nothing about the architecture altogether.
 
 I suggest first reading brilliant description of the pattern at the [O.REILLY  web page](https://www.oreilly.com/library/view/software-architecture-patterns/9781491971437/ch01.html), cause in this post I am going to describe the pattern in a way it is usually applied to build test automation solution.
@@ -26,3 +23,7 @@ In a BDD inspired framework, test layer will typically contain feature files, bu
 Those, who read [introduction](taf_intro.md) for this series will probably notice the conflict with test automation framework given there (hint: framework does not include tests). I think this is historical heritage in our industry, where terms test automation solution and test automation framework were considered same.
 
 From my perspective, it would be better to tell that framework consists of two layers (*Business* and *Core layers*), while *test layer* is just using a framework to provide fully-fledged test automation solution. Anyway, this is more of semantic question.
+
+In addition to this page you may also have a look at the implementation example:
+[http://aqaguy.blogspot.com.by/2018/02/test-automation-framework-architecture.html](http://aqaguy.blogspot.com.by/2018/02/test-automation-framework-architecture.html)  
+It may be also interesting to have a look at two-layer variation" [http://aqaguy.blogspot.com/p/test-automation-framework-architecture_16.html](http://aqaguy.blogspot.com/p/test-automation-framework-architecture_16.html)
