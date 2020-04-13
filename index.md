@@ -8,9 +8,12 @@ Welcome to Alexander Pushkarev personal web page! The most important and interes
 
 ### Pages about Test Automation/Automated checking
 
-[Test Automation Framework Architecture: Introduction](https://senpay.github.io/ta/taf/taf_intro)  
-[Test Automation Framework Architecture: No architecture](https://senpay.github.io/ta/taf/taf_no_architecture)  
-[Test Automation Framework Architecture FAQ](https://senpay.github.io/ta/taf/taf_faq)  
+#### Test Automation Framework Architecture
+
+[Introduction](https://senpay.github.io/ta/taf/taf_intro)  
+[No architecture](https://senpay.github.io/ta/taf/taf_no_architecture)  
+[Layered architecture](https://senpay.github.io/ta/taf/taf_layered)  
+[FAQ](https://senpay.github.io/ta/taf/taf_faq)  
 
 
 #### Know-hows
