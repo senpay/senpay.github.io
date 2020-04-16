@@ -16,15 +16,15 @@ I do not believe in test-last approach. I don't believe that one can test qualit
   -  I provide workshops at the conferences and on requests where I show how my ideas and know-how can be used on practice
 
 ## About me
-All of the above are areas of my professional interest and expertise. I started my professional path as Test Engineer, was testing and developing test tools for more than 5 years and finally was promoted to a leadership position. After joining a Toptal, one of the best companies I have ever had a chance to work with, I was given a unique opportunity to start my Software Craftsperson journey and work with the best of the best engineers worldwide.
+All of the above are areas of my professional interest and expertise. I started my professional path as Test Engineer, was testing and developing test tools for more than 5 years and finally was promoted to a leadership position. After joining a Toptal I was given a unique opportunity to start my Software Craftsperson journey and work with the best of the best engineers worldwide on the state of the art Data Analytics solution.
 
 At the moment I am on yet another exciting journey exploring DevOps philosophy and toolchain at Xilinx, UK.
 
 ## Tools and technologies I have used
 
-On numerous occasions throughout my career I had to change the tools I use. I am more than surprised when someone requires knowledge of a particular tool from an engineer with more than 5 years of experience.
+On numerous occasions throughout my career I had to change the tools I use. (I am more than surprised when someone requires knowledge of a particular tool from an engineer with more than 5 years of experience.)
 
-The best tool that I have ever had to use is the thing that sits on my shoulders. However, I have also worked with PHP, VB.Net, SQL, Java, C#, Python, Groovy, JavaScript
+I have worked with PHP, VB.Net, SQL, Java, C#, Python, Groovy, JavaScript and I am happy to add new things to this list.
 
 Projects that I worked with were anything from Web-based to Desktop applications; from E-Commerce to AI and Data Analysis.
 
@@ -34,8 +34,14 @@ Projects that I worked with were anything from Web-based to Desktop applications
 
 **QA Automation Engineer**, contractor at Toptal  
 *Remote (Apr 2018 - Sep 2019)*  
-Software Craftsperson - doing whatever is needed for successful product development.
-Leading QA strategy and helping other Craftspeople to enhance their QA skills.
+Software Craftsperson.
+In addition to regular product development activities I was responsible for QA strategy development, definition and execution. I was in charge of defining effective QA approach from feature definition all the way to the production deployment and coaching other team members on the things like TDD, Pair Programming, Test Design and Test Automation.
+
+Major achievements:
+  -  Acceptance tests improvement: increased stability of the test run and transparency of the test report; lead initiative that helped to decrease test suite execution time by 50%.
+  -  Lead the development of the data consistency validation tool which was used as a way of applying DevOps approach to ETL solutions.
+
+Technologies: Python, Flask, Pandas, Ruby
 
 **Lead QA Automation Engineer** at WorkFusion  
 *Minsk, Belarus (Jun 2017 - Apr 2018)*  
