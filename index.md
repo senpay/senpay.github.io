@@ -22,7 +22,7 @@ I am test-focused developer and/or development-focused tester. On this page I wi
 
 #### Know-hows
 [Feature test model](https://senpay.github.io/ta/ftm/feature_tests)  
-[An example of Subcutaneous test pattern](http://aqaguy.blogspot.com/2019/10/getting-most-of-you-automated-checks.html)
+[An example of Subcutaneous test pattern](http://aqaguy.blogspot.com/2019/10/getting-most-of-you-automated-checks.html)  
 [Several ways to address flaky tests issue](https://senpay.github.io/ta/know-hows/flaky_tests_fix)
 
 <hr>
