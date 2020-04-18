@@ -1,19 +1,22 @@
 ## About
 
-Welcome to Alexander Pushkarev personal web page! The most important and interesting things here are:
+Welcome to Alexander Pushkarev personal web page!
 
-[About me](https://senpay.github.io/cv)  
+I am test-focused developer and/or development-focused tester. On this page I will:
+
+  * Publish my know-how - certain things and approaches that did work for me in a specific context, with the indication to an area of applicability;
+  * Summary of the scientific researches that I was able to find to prove or disprove specific points of view regarding certain open questions in Testing and Test Automation.
 
 <hr>
 
-### Pages about Test Automation/Automated checking
+### Test Automation/Automated checking hub
 
 #### Test Automation Framework Architecture
 
 [Introduction](https://senpay.github.io/ta/taf/taf_intro)  
 [No architecture](https://senpay.github.io/ta/taf/taf_no_architecture)  
 [Layered architecture](https://senpay.github.io/ta/taf/taf_layered)  
-[Layered architecture examples](http://aqaguy.blogspot.com/p/blog-page_26.html)
+[Layered architecture examples](http://aqaguy.blogspot.com/p/blog-page_26.html)  
 [FAQ](https://senpay.github.io/ta/taf/taf_faq)  
 
 
@@ -28,3 +31,7 @@ Characterization tests
 An example of Layered quality-gates approach  
 Clean-architecture of the infrastructure and CI/CD code  
 Test strategy/Test plan document example
+
+<hr>
+
+[About me](https://senpay.github.io/cv)  
