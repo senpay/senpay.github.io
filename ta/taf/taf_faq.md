@@ -12,7 +12,7 @@ That is a good question. While I think that there're some legitimate contexts wh
 
 However, there're legitimate contexts where you might want/need to invest in a complex test automation solution. My personal opinion is that it is when both of the following is true:
   *  Product under test does not have enough reliable unit-test coverage;
-  *  The cost of writing/maintaining test automation solution is lower of the cost of refactoring/investing in product architecture and unit-test coverage for the expected planning horizon.
+  *  The cost of writing/maintaining test automation solution is lower than the cost of refactoring/investing in product architecture and unit-test coverage for the expected planning horizon.
 
 Or where this is true:
   *  The quality is critical to the extent where we don't really care about how expensive QA would be.
