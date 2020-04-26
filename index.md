@@ -19,6 +19,17 @@ I am test-focused developer and/or development-focused tester. On this page I wi
 [Layered architecture examples](http://aqaguy.blogspot.com/p/blog-page_26.html)  
 [FAQ](https://senpay.github.io/ta/taf/taf_faq)  
 
+### Testing/QA hub  
+[Test Strategy Example](https://senpay.github.io/testing/test_strategy/test_strategy_example)  
+
+#### Test Automation Framework Architecture
+
+[Introduction](https://senpay.github.io/ta/taf/taf_intro)  
+[No architecture](https://senpay.github.io/ta/taf/taf_no_architecture)  
+[Layered architecture](https://senpay.github.io/ta/taf/taf_layered)  
+[Layered architecture examples](http://aqaguy.blogspot.com/p/blog-page_26.html)  
+[FAQ](https://senpay.github.io/ta/taf/taf_faq)  
+
 
 #### Know-hows
 [Feature test model](https://senpay.github.io/ta/ftm/feature_tests)  
