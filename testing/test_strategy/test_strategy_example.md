@@ -1,8 +1,8 @@
 ***Disclaimer:** While there's a difference between QA and Testing, for the sake of simplicity, on this page terms QA and Testing are used mostly interchangeably.*
 
-Different organizations may mean different things when they speak of QA/Testing Strategy, but usually it is a high level document that would introduce information about how (and sometimes - why so) the project/product quality would be assured/controlled. Some organization would require a specific template to be used, but in most cases it is a free-style document.
+Different organizations may mean different things when they speak of QA/Testing Strategy, but usually, it is a high-level document that would introduce information about how (and sometimes - why so) the project/product quality would be assured/controlled. Some organization would require a specific template to be used, but in most cases, it is a free-style document.
 
-Below is an example (on of many) of how QA/Tes strategy document may look like and what information it may contain.
+Below is an example (one of many possibilities) of how QA/Tes strategy document may look like and what information it may contain.
 
 <hr/>
 
@@ -12,7 +12,7 @@ Below is an example (on of many) of how QA/Tes strategy document may look like a
 
 *This section explains why this document was created in the first place, for example: to adhere to a company/industry standard, to raise awareness, share knowledge, e.t.c. It would also include a brief overview of the information given in the document.*
 
-***Why?** - this section is aimed to give an idea about is it relevant to reader at all*
+***Why?** - this section is aimed to give an idea about is it relevant to a reader at all*
  
 ## 1.2 Project
 
@@ -56,7 +56,7 @@ From the highest level, QA process applied to the project should yield following
 ## 2.3 QA activities
 *This section can list what kind of QA activities are planned to be performed on the project, for example:*
 
-QA process includes following activities:
+QA process includes the following activities:
 
   - Story review and analysis
   - Unit-testing
