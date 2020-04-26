@@ -43,15 +43,11 @@ Below is an example (on of many) of how QA/Tes strategy document may look like a
 
 *For instance, in the example below it is made clear that key characteristics would be delivery time, transparency and impact of possible business-critical issues:*
 
-<hr />
-
 From the highest level, QA process applied to the project should yield following results or assure following key characteristics:
 
   - Minimize impact and/or possibility of business-critical issues
   - Minimize feature delivery time
   - Provide clear feedback for all concerned parties about quality
-
-<hr />
 
 ## 2.2. QA Approach/Strategy
 
