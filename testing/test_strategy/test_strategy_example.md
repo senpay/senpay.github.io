@@ -1,9 +1,10 @@
 ***Disclaimer:** While there's a difference between QA and Testing, for the sake of simplicity, on this page terms QA and Testing are used mostly interchangeably.*
 
-Different organizations may mean different things when they speak of QA Strategy, but usually it is a high level document that would introduce information about how (and sometimes - why so) the project/product quality would be assured. Some organization would require a specific template to be used, but in most cases it is a free-style document.
+Different organizations may mean different things when they speak of QA/Testing Strategy, but usually it is a high level document that would introduce information about how (and sometimes - why so) the project/product quality would be assured/controlled. Some organization would require a specific template to be used, but in most cases it is a free-style document.
 
 Below is an example (on of many) of how QA/Tes strategy document may look like and what information it may contain.
 
+<hr/>
 
 # 1 General Information
 
@@ -27,7 +28,7 @@ Below is an example (on of many) of how QA/Tes strategy document may look like a
 
 ### 1.2.2 Architectural and business overview
 
-*This section would typically include architecture and business information which can influence our QA-related decisions. Architecture decisions influence how we **can** test the application, while business information is essential for risk analysis. *
+*This section would typically include architecture and business information which can influence our QA-related decisions. Architecture decisions influence how we **can** test the application, while business information is essential for risk analysis.*
 
 
 #### 1.2.3 Project development process
@@ -40,7 +41,7 @@ Below is an example (on of many) of how QA/Tes strategy document may look like a
 
 *This section should include the objective of the QA process. That can be eliminating business/legal risks or adhering to a specific industry standard.*
 
-*For instance, in the example below it is made clear that key characteristics would be delivery time, transparency and impact of possible business-critical issues:**
+*For instance, in the example below it is made clear that key characteristics would be delivery time, transparency and impact of possible business-critical issues:*
 
 <hr />
 
