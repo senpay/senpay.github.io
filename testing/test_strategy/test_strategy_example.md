@@ -1,3 +1,5 @@
+# Test/QA Strategy example document 
+
 ***Disclaimer:** While there's a difference between QA and Testing, for the sake of simplicity, on this page terms QA and Testing are used mostly interchangeably.*
 
 Different organizations may mean different things when they speak of QA/Testing Strategy, but usually, it is a high-level document that would introduce information about how (and sometimes - why so) the project/product quality would be assured/controlled. Some organization would require a specific template to be used, but in most cases, it is a free-style document.
