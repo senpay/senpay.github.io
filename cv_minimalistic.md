@@ -24,7 +24,7 @@
   - **Lead Test Automation Engineer** at MeteoGroup via *EPAM Systems*: Dec 2017 - Jun 2017 (Belarus, Minsk)
   - **Lead Test Automation Engineer** at Travix via *EPAM Systems*: Jan 2016 - Dec 2016 (Belarus, Minsk)
   - **Internal trainer** at *EPAM Systems*: Aug 2014 - Jan 2016 (Belarus, Minsk)
-  - **Software Development Engineer in Test** at Expedia via *EPAM Systems* Jul 2012 - Jan 2016 (Belarus, Minsk)
+  - **Software Development Engineer in Test** at Expedia via *EPAM Systems*: Jul 2012 - Jan 2016 (Belarus, Minsk)
   - **QA Engineer** at Thomson Routers via *EPAM Systems*: Aug 2010 - Jul 2012 (Belarus, Minsk)
   - **Software Developer** at Aicnyna-Plus:  Oct 2008 - Jul 2010 (Belarus, Minsk)
 
