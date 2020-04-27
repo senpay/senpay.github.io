@@ -41,3 +41,4 @@ Test strategy/Test plan document example
 <hr>
 
 [About me](https://senpay.github.io/cv)  
+[Short CV](https://senpay.github.io/cv_minimalistic)  
