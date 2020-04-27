@@ -1,6 +1,16 @@
 # Alexander Pushkarev
 
-## Major skills
+## Skill summary
+  - Monitoring and engineering productivity tools development
+  - Data validation tools development
+  - Refactoring/TDD/Pair programming
+  - Test automation solutions architecture
+  - Test automation framework development
+  - CI/CD tools development
+  - Testing
+  - QA Strategy definition and planning
+
+## Overview of products I worked on
 
 ## Tools and technologies
   - Python (Python3, Flask, Pandas, pytest) - 3 years
