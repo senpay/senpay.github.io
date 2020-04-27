@@ -24,10 +24,10 @@ I have worked with PHP, VB.Net, SQL, Java, C#, Python, Groovy, JavaScript and I 
 Projects that I worked with were anything from Web-based to Desktop applications; from E-Commerce to AI and Data Analysis.
 
 ## My professional experience
-**Senior Software Engineer**, at Xilinx  
-*Cambridge, UK (Sep 2019 - till now)*  
+**Senior Software Engineer** at Xilinx  
+*Cambridge, UK (Sep 2019 - current)*  
 
-**QA Automation Engineer**, contractor at Toptal  
+**QA Automation Engineer** contractor at Toptal  
 *Remote (Apr 2018 - Sep 2019)*  
 Software Craftsperson.
 In addition to regular product development activities, I was responsible for QA strategy development, definition and execution. I was in charge of defining effective QA approach from feature definition all the way to the production deployment and coaching other team members on the things like TDD, Pair Programming, Test Design and Test Automation.
