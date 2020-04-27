@@ -5,7 +5,7 @@ The most used one in my experience is layered architecture. I think it is also a
 
 #### Do I need a test framework at all?
 That is a good question. While I think that there're some legitimate contexts where product/project/team can benefit from having a sophisticated test automation solution/framework, my general rule of thumb is "If you need a framework - you do it wrong".
-  *  There're at least several decent papers showing the benefit of unit-testing ([1],[2], [3]), while I could not find any research proving that system level tests could bring better results. Please let me know if you can prove me wrong.
+  *  There're at least several decent papers showing the positive impact of unit-testing ([1],[2], [3]) on the product quality, while I could not find any research proving that system level tests could bring better results. Please let me know if you can prove me wrong.
   *  There's at least one half-scientific paper showing the benefits of unit tests in comparison to integration/system level tests [4]
   *  There's a good paper bringing a notion of running/writing and maintaining test vs. the benefit of having/running it at all [5]. If we know that, by definition, system level tests are more complex in maintenance, expensive in running and inspection, why do we insist on having so many of them?
   *  Inability to write small and reliable unit tests is almost universally considered an indication of poor product architecture.
