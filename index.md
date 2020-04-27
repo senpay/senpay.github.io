@@ -11,6 +11,8 @@ I am test-focused developer and/or development-focused tester. On this page I wi
 
 ### Test Automation/Automated checking hub
 
+[Subcutaneous test  -  a faster alternative for Selenium-driven automation](https://medium.com/@alexspush/an-alternative-to-ubiquitous-ui-level-checking-subcutaneous-tests-8d29e8883fc2)
+
 #### Test Automation Framework Architecture
 
 [Introduction](https://senpay.github.io/ta/taf/taf_intro)  
@@ -21,14 +23,6 @@ I am test-focused developer and/or development-focused tester. On this page I wi
 
 ### Testing/QA hub  
 [Test Strategy Example](https://senpay.github.io/testing/test_strategy/test_strategy_example)  
-
-#### Test Automation Framework Architecture
-
-[Introduction](https://senpay.github.io/ta/taf/taf_intro)  
-[No architecture](https://senpay.github.io/ta/taf/taf_no_architecture)  
-[Layered architecture](https://senpay.github.io/ta/taf/taf_layered)  
-[Layered architecture examples](http://aqaguy.blogspot.com/p/blog-page_26.html)  
-[FAQ](https://senpay.github.io/ta/taf/taf_faq)  
 
 
 #### Know-hows
