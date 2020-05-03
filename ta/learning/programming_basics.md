@@ -27,6 +27,6 @@ JavaScript is one of the most popular programming languages nowadays. It is the 
   - [learnjavascript.online](https://learnjavascript.online/app.html)
 
 
-[1] https://www.tiobe.com/tiobe-index/
-[2] https://applitools.com/blog/language-software-test-automation/
+[1] https://www.tiobe.com/tiobe-index/  
+[2] https://applitools.com/blog/language-software-test-automation/  
 [3] https://dzone.com/articles/which-programming-language-is-most-popular-for-ui
