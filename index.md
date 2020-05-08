@@ -11,6 +11,7 @@ I am test-focused developer and/or development-focused tester. On this page I wi
 
 ### Test Automation/Automated checking hub
 
+[Test Club](https://senpay.github.io/ta/testclub)
 [Subcutaneous test  -  a faster alternative for Selenium-driven automation](https://medium.com/@alexspush/an-alternative-to-ubiquitous-ui-level-checking-subcutaneous-tests-8d29e8883fc2)
 
 #### Test Automation Framework Architecture
@@ -36,9 +37,9 @@ I am test-focused developer and/or development-focused tester. On this page I wi
 Characterization tests  
 An example of Layered quality-gates approach  
 Clean-architecture of the infrastructure and CI/CD code  
-Test strategy/Test plan document example
 
 <hr>
+
 
 [About me](https://senpay.github.io/cv)  
 [Short CV](https://senpay.github.io/cv_minimalistic)  
