@@ -43,3 +43,5 @@ Clean-architecture of the infrastructure and CI/CD code
 
 [About me](https://senpay.github.io/cv)  
 [Short CV](https://senpay.github.io/cv_minimalistic)  
+[My blog](http://aqaguy.blogspot.com/)
+[My publications on Meduim](https://medium.com/@alexspush)
