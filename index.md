@@ -12,7 +12,7 @@ I am test-focused developer and/or development-focused tester. On this page I wi
 ### Test Automation/Automated checking hub
 
 [Test Club](https://senpay.github.io/ta/testclub)  
-[Subcutaneous test  -  a faster alternative for Selenium-driven automation](https://medium.com/@alexspush/an-alternative-to-ubiquitous-ui-level-checking-subcutaneous-tests-8d29e8883fc2)
+[Subcutaneous test  -  a faster alternative for Selenium-driven automation](https://medium.com/@alexspush/an-alternative-to-ubiquitous-ui-level-checking-subcutaneous-tests-8d29e8883fc2)  
 [Is TDD Effective?](https://senpay.github.io/ta/tdd/is_tdd_effective)
 
 #### Test Automation Framework Architecture
