@@ -1,11 +1,14 @@
 ## About
 
-Welcome to Alexander Pushkarev personal web page!
+Welcome to the Test Club Hub!
 
-I am test-focused developer and/or development-focused tester. On this page I will:
+Test Club (founded by Alexander Pushkarev) is a Test and Test Automation focused community with the goal of providing independent secondary (and, potentially - primary) research and sharing a verifiable, reliable knowledge.
 
-  * Publish my know-how - certain things and approaches that did work for me in a specific context, with the indication to an area of applicability;
-  * Summary of the scientific researches that I was able to find to prove or disprove specific points of view regarding certain open questions in Testing and Test Automation.
+Here we aim to:
+  * Publish know-how - certain things and approaches that did work in a specific context, with the indication to an area of applicability;
+  * Summary of the scientific researches proving or disproving specific points of view regarding certain open questions in Testing and Test Automation.
+
+  More information about Test Club is coming soon.
 
 <hr>
 
@@ -35,14 +38,17 @@ I am test-focused developer and/or development-focused tester. On this page I wi
 <hr>
 
 ### Coming soon:
+ETL and Dataware house testing approaches
+Test pyramid and test automation efficiency
 Characterization tests  
 An example of Layered quality-gates approach  
 Clean-architecture of the infrastructure and CI/CD code  
 
+
 <hr>
 
 
-[About me](https://senpay.github.io/cv)  
-[Short CV](https://senpay.github.io/cv_minimalistic)  
-[My blog](http://aqaguy.blogspot.com/)
-[My publications on Meduim](https://medium.com/@alexspush)
+[About Alexander Pushkarev](https://senpay.github.io/cv)  
+[Alexander Pushkarev CV](https://senpay.github.io/cv_minimalistic)  
+[Alexander Pushkarev blog](http://aqaguy.blogspot.com/)
+[Alexander Pushkarev publications on Meduim](https://medium.com/@alexspush)
