@@ -22,26 +22,26 @@ Here we aim to:
 
 ### Test Automation/Automated checking hub
 
-[Test Club](https://senpay.github.io/ta/testclub)  
+[Test Club](https://senpay.github.io/pages/ta/testclub)  
 [Subcutaneous test  -  a faster alternative for Selenium-driven automation](https://medium.com/@alexspush/an-alternative-to-ubiquitous-ui-level-checking-subcutaneous-tests-8d29e8883fc2)  
-[Is TDD Effective?](https://senpay.github.io/ta/tdd/is_tdd_effective)
+[Is TDD Effective?](https://senpay.github.io/pages/ta/tdd/is_tdd_effective)
 
 #### Test Automation Framework Architecture
 
-[Introduction](https://senpay.github.io/ta/taf/taf_intro)  
-[No architecture](https://senpay.github.io/ta/taf/taf_no_architecture)  
-[Layered architecture](https://senpay.github.io/ta/taf/taf_layered)  
+[Introduction](https://senpay.github.io/pages/ta/taf/taf_intro)  
+[No architecture](https://senpay.github.io/pages/ta/taf/taf_no_architecture)  
+[Layered architecture](https://senpay.github.io/pages/ta/taf/taf_layered)  
 [Layered architecture examples](http://aqaguy.blogspot.com/p/blog-page_26.html)  
-[FAQ](https://senpay.github.io/ta/taf/taf_faq)  
+[FAQ](https://senpay.github.io/pages/ta/taf/taf_faq)  
 
 ### Testing/QA hub  
-[Test Strategy Example](https://senpay.github.io/testing/test_strategy/test_strategy_example)  
+[Test Strategy Example](https://senpay.github.io/pages/testing/test_strategy/test_strategy_example)  
 
 
 #### Know-hows
-[Feature test model](https://senpay.github.io/ta/ftm/feature_tests)  
+[Feature test model](https://senpay.github.io/pages/ta/ftm/feature_tests)  
 [An example of Subcutaneous test pattern](http://aqaguy.blogspot.com/2019/10/getting-most-of-you-automated-checks.html)  
-[Several ways to address flaky tests issue](https://senpay.github.io/ta/know-hows/flaky_tests_fix)
+[Several ways to address flaky tests issue](https://senpay.github.io/pages/ta/know-hows/flaky_tests_fix)
 
 <hr>
 
