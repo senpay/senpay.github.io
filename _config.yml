@@ -20,7 +20,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://senpay.github.io'
-baseurl:          '/jekyll-gitbook'
+baseurl:          '/index'
 rss:              RSS
 
 toc:
