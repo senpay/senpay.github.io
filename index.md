@@ -2,9 +2,10 @@
 layout: home
 ---
 
-## About
 
-Welcome to the Test Club Hub!
+# Test Club Hub
+
+## About
 
 Test Club (founded by Alexander Pushkarev) is a Test and Test Automation focused community with the goal of providing independent secondary (and, potentially - primary) research and sharing a verifiable, reliable knowledge.
 
