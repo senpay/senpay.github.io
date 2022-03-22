@@ -1,9 +1,7 @@
 ---
 layout: home
+title: Test Club Hub
 ---
-
-
-# Test Club Hub
 
 ## About
 
