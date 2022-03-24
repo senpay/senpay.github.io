@@ -41,13 +41,11 @@ describe('Main Page hyperlinks', () => {
 
     it('Verification that "Layered architecture" hyperlink directs user to the anorther page', () => {
       cy.get(LINKS.Layered_architecture)
- 
      .should("to.not.have", "href", "#undefined")
     });
 
     it('Verification that "Layered architecture examples" hyperlink directs user to the anorther page', () => {
       cy.get(LINKS.Layered_architecture_examples)
-
      .should("to.not.have", "href", "#undefined")
     });
 
@@ -71,7 +69,6 @@ describe('Main Page hyperlinks', () => {
 
     it('Verification that "An example of Subcutaneous test pattern" hyperlink directs user to the anorther page', () => {
       cy.get(LINKS.An_example_of_Subcutaneous_test_pattern)
-  
      .should("to.not.have", "href", "#undefined")
     });
 
