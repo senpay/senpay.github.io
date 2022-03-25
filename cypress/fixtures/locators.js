@@ -16,3 +16,11 @@ export const LINKS = {
     Alexander_Pushkarev_blog : '#book-search-results > div.search-noresults > section > p:nth-child(20) > a:nth-child(5)',
     Alexander_Pushkarev_publications_on_Meduim : '#book-search-results > div.search-noresults > section > p:nth-child(20) > a:nth-child(6)'
 }
+// export class HomePage {
+ 
+//     navigate = () => {
+//         cy.visit("https://aqaguy.uk/")
+//         }
+        
+//     testClubLink= () =>  cy.get(LINKS.TEST_CLUB_LINK).should("to.not.have", "href", "#undefined")
+//     }

@@ -1,4 +1,5 @@
 import {LINKS} from '../../../New folder/cypress/fixtures/locators.js'
+// import  HomePage from '../../../New folder/cypress/fixtures/locators.js'
 
 describe('Main Page hyperlinks', () => {
     before (()=> {
@@ -8,6 +9,7 @@ describe('Main Page hyperlinks', () => {
     afterEach(() => {
       cy.visit('https://aqaguy.uk/')
     })
+    it(Homepage); 
 
     it('Verification that "Test Club" hyperlink directs user to the anorther page', () => {
       cy.get(LINKS.TEST_CLUB_LINK)
