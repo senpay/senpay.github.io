@@ -53,5 +53,5 @@ Clean-architecture of the infrastructure and CI/CD code
 
 [About Alexander Pushkarev](https://senpay.github.io/cv)  
 [Alexander Pushkarev CV](https://senpay.github.io/cv_minimalistic)  
-[Alexander Pushkarev blog](http://aqaguy.blogspot.com/)
+[Alexander Pushkarev blog](http://aqaguy.blogspot.com/)  
 [Alexander Pushkarev publications on Meduim](https://medium.com/@alexspush)
