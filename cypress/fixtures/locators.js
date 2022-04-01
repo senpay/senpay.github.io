@@ -14,7 +14,7 @@ export const LINKS = {
     About_Alexander_Pushkarev : '#book-search-results > div.search-noresults > section > p:nth-child(20) > a:nth-child(1)',
     Alexander_Pushkarev_CV : '#book-search-results > div.search-noresults > section > p:nth-child(20) > a:nth-child(3)',
     Alexander_Pushkarev_blog : '#book-search-results > div.search-noresults > section > p:nth-child(20) > a:nth-child(5)',
-    Alexander_Pushkarev_publications_on_Meduim : '#book-search-results > div.search-noresults > section > p:nth-child(20) > a:nth-child(6)'
+    Alexander_Pushkarev_publications_on_Meduim : '#book-search-results > div.search-noresults > section > p:nth-child(20) > a:nth-child(7)'
 }
 // export class HomePage {
  
