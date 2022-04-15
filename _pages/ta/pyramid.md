@@ -18,7 +18,7 @@ I find it very helpful to think of testing as a risk management technique. There
 
 One could argue that not every bug can be detected by unit tests. That's true, but that becomes less of a problem if one designs software systems wisely.
 
-![logo](pyramid.png)
+![logo](../pyramid.png)
 
 
 
