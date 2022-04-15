@@ -1,3 +1,12 @@
+---
+title: Feature test driven development
+author: Alexander Pushkarev
+date: 2022-02-03
+category: Jekyll
+layout: post
+---
+
+
 ## Feature tests model - Problem statement
 
 Let's imagine that you were assigned to the new Test Automation  Initiative. The product is mature enough but has little or even none automated-checks coverage. Product codebase consists of thousands (if not hundreds of thousands) lines of code, and building a proper Agile Testing Pyramid is not an option anymore.
