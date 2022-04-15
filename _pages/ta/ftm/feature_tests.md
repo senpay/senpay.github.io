@@ -46,12 +46,12 @@ Feature tests model aims to help with achieving following goals:
 ## Implementing Feature tests model
 
 The algorithm itself is quite simple:
-1) Identify feature
-2) Find where this feature is actually should implemented
-3) Write the smallest possible failing test which could checks this feature
-4) Implement functionality
-5) Refactor
-6) Repeat
+1. Identify feature
+2. Find where this feature is actually should implemented
+3. Write the smallest possible failing test which could checks this feature
+4. Implement functionality
+5. Refactor
+6. Repeat
 
 
 ### Non-TDD example
@@ -62,8 +62,8 @@ As an example, I suggest a simple application, that allows adding new users to t
 ![application preview](login-form-preview.png)
   
 In addition to the possibility to add new users, this application provides simple input validation:
-1) It will not be possible to add a user with an empty name
-2) It will not be possible to add two users with the same name
+1. It will not be possible to add a user with an empty name
+2. It will not be possible to add two users with the same name
 
 
 From the architecture standpoint, the application is a variation of 3-tier architectural pattern [4].
@@ -76,10 +76,10 @@ When there's a story or piece of functionality which requires test automation - 
 
 
 For example, for the application above, we can come up with the following feature list:  
-1) Add new user to the database  
-2) Print list of added users below the input form  
-3) Validate user input - write error if empty user name is given  
-4) Validate user input - write error if non-unique user name is given
+1. Add new user to the database  
+2. Print list of added users below the input form  
+3. Validate user input - write error if empty user name is given  
+4. Validate user input - write error if non-unique user name is given
 
 #### Find where this feature is implemented
 
@@ -113,8 +113,8 @@ Depending on how this validation is implemented, it may be either:
 - Big Java check, if validation logic is implemented some insanely-complicated way
 
 In our case, we can implement this as medium Java check as there're only a couple of classes involved in this validation check:
-1) ```business.service.UserService```  
-2) ```business.validation.EmptyStringValidator```
+1. ```business.service.UserService```  
+2. ```business.validation.EmptyStringValidator```
 
 ```java
     @Test
@@ -135,8 +135,8 @@ Full code: `environment.UserApplicationTest`
 
 #### Validate user input - write error if non-unique user name is given
 Even though this feature looks more or less identical to the previous one, the code implementing this functionality is slightly different:
-1) ```business.service.UserService```  
-2) ```business.validation.LoginValidator```
+1. ```business.service.UserService```  
+2. ```business.validation.LoginValidator```
 
 
 We have already tested most of the logic related to error handling in the ```UserService```, so we can cover this functionality with even even smaller Java check.
