@@ -75,10 +75,10 @@ From the architecture standpoint, the application is a variation of 3-tier archi
 When there's a story or piece of functionality which requires test automation - we should break it into atomic "features". By feature in this context I understand some kind of requirement, which can be reasonably checked using a single automated check.
 
 
-For example, for the application above, we can come up with the following feature list:
-1) Add new user to the database
-2) Print list of added users below the input form
-3) Validate user input - write error if empty user name is given
+For example, for the application above, we can come up with the following feature list:  
+1) Add new user to the database  
+2) Print list of added users below the input form  
+3) Validate user input - write error if empty user name is given  
 4) Validate user input - write error if non-unique user name is given
 
 #### Find where this feature is implemented
