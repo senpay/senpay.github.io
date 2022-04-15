@@ -1,5 +1,5 @@
 ---
-title: Feature test driven development
+title: Test automation pyramid
 author: Alexander Pushkarev
 date: 2022-04-15
 category: Jekyll
@@ -17,6 +17,8 @@ I believe this is a somewhat unhelpful way to think about this concept. I think 
 I find it very helpful to think of testing as a risk management technique. There's an infinite amount of bugs in the system under test. Tests on different levels work as a 'filter'. We recommend relying on a small filter (unit tests) more because it is usually the most cost-effective way.
 
 One could argue that not every bug can be detected by unit tests. That's true, but that becomes less of a problem if one designs software systems wisely.
+
+![logo](pyramid.png)
 
 
 

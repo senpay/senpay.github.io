@@ -7,19 +7,19 @@ layout: post
 ---
 
 
-## Feature tests model - Problem statement
+## Problem statement
 
 Let's imagine that you were assigned to the new Test Automation Initiative. The product is mature enough but has little or even none automated-checks coverage. Product codebase consists of thousands (if not hundreds of thousands) lines of code, and building a proper [Agile Testing Pyramid](../pyramid) is not an option anymore.
 
 
-Conventional wisdowm suggests that most of the automated-checks should be written on the unit level, writing them may be a challenging task. When writing testable code is not among the top project goals - codebase tends to become rather untestable.
+Conventional wisdom suggests that most of the automated-checks should be written on the unit level, writing them may be a challenging task. When creating testable code is not among the top project goals - codebase tends to become rather untestable.
 
 
-Under such circumstances, Test Automation Engineers usually consider the only option which seems to be viable, which is to rely on the system-level automated checks (for example - UL-level checks), which often leads to the "Ice-cream" antipattern [1]. However, there're some other options. While it may be already too late to build highly effective automated-check suite, there're some good approaches to minimize reliance on system-level checking. One approach which may be very helpful in the situation like this is called "Feature tests model".
+Under such circumstances, Test Automation Engineers often recommend to rely on the system-level automated checks (for example - UL-level checks), which often leads to the "Ice-cream" antipattern [1]. However, there're some other options. While it may be already too late to build highly effective automated-check suite, there're some good approaches to minimize reliance on system-level checking. One approach which may be very helpful in the situation like this is called **"Feature test driven development"**.
 
 ## Revised terminology
 
-There's an old joke - if you get three experienced developers into the meeting room and ask them to define what "unit" is, you will end up with at least four different definitions. Currently, there's no universally accepted definition of what "unit" is, and therefore there's no universally accepted understanding of what good unit-level check should look like. There're at least two different schools of thoughts on the matter (mockists vs. classicists) [2]. For the Test Automation engineers that subtle difference usually is not very important. In the research, done by Google to identify what automated checks from their codebase were flaky and why they actually came to the conclusion that one of the decisive factors was test size [3]. It may be easier to just break tests into three major categories as Google did:
+There's an old joke - if you get three experienced developers into the meeting room and ask them to define what "unit" is, you will end up with at least four different definitions. Currently, there's no universally accepted definition of what "unit" is, and therefore there's no universally accepted understanding of what good unit-level check should look like. There're at least two different schools of thoughts on the matter (mockists vs. classicists) [2]. For the Test Automation engineers that subtle difference usually is not very important. In the research done by Google to identify what automated checks from their codebase were flaky and why they actually came to the conclusion that one of the decisive factors was test size [3]. It may be easier to just break tests into three major categories as Google did:
 
 | Check size     | Heuristics                                                                                                                        |
 | ------------- |:---------------------------------------------------------------------------------------------------------------------------------:|
@@ -35,20 +35,26 @@ Feature tests model aims to help with achieving following goals:
  - Decrease reliance on Big and Medium automated checks
  - Increase test suite speed and stability
 
-## Known limitations
+## Important observations
 
-This approach is specifically designed for the "dedicated Test automation engineer" set up. I.e. where there's person\several people responsible solely for test automation. In other words, when developers don't write test automation themselves.
+1) Originally this approach is specifically designed for the "dedicated Test automation engineer" set up. I.e. where there's person\several people responsible solely for test automation. In other words, when developers don't write test automation themselves. However it was proven that it can be used as TDD-practice
 
+2) One of the biggest disadvantages of this approach is that it requires a good deal of expertise and knowledge of software development and programming. In addition, being able to use coverage analysis tools may be very helpful as well.
 
-However, one of the biggest disadvantages of this approach is that it requires a good deal of expertise and knowledge of software development and programming. In addition, being able to use coverage analysis tools may be very helpful as well. However, my personal opinion is that software development and programming knowledge is must-have for a Senior Tester or Test Automation Engineer anyway.
+3) This is one of the 'outside-in' TDD approaches.
 
 ## Implementing Feature tests model
 
 The algorithm itself is quite simple:
 1) Identify feature
-2) Find where this feature is actually implemented
-3) Write the smallest possible automated check which checks this feature
+2) Find where this feature is actually should implemented
+3) Write the smallest possible failing test which could checks this feature
+4) Implement functionality
+5) Refactor
+6) Repeat
 
+
+### Non-TDD example
 
 As an example, I suggest a simple application, that allows adding new users to the database (link to the repository with the application: [https://github.com/senpay/login-form-ftmodel](https://github.com/senpay/login-form-ftmodel))  
   
@@ -64,7 +70,7 @@ From the architecture standpoint, the application is a variation of 3-tier archi
 
 ![N-tier architectural pattern](tiered_architecture.png)
 
-### Identify feature
+#### Identify feature
 
 When there's a story or piece of functionality which requires test automation - we should break it into atomic "features". By feature in this context I understand some kind of requirement, which can be reasonably checked using a single automated check.
 
@@ -75,7 +81,7 @@ For example, for the application above, we can come up with the following featur
 3) Validate user input - write error if empty user name is given
 4) Validate user input - write error if non-unique user name is given
 
-### Find where this feature is implemented
+#### Find where this feature is implemented
 
 #### Add new user
 It is a fairly complicated functionality, which requires quite a lot of classes to interact properly with each other. It starts with processing the input from the UI, passes through the validation logic and ultimately uses all levels of the 3-tiered architecture of the application. To check this feature we will have to write a big System-level test.
