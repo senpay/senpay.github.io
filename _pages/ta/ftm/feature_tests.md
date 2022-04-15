@@ -1,7 +1,7 @@
 ---
 title: Feature test driven development
 author: Alexander Pushkarev
-date: 2022-02-03
+date: 2022-04-15
 category: Jekyll
 layout: post
 ---
@@ -9,10 +9,10 @@ layout: post
 
 ## Feature tests model - Problem statement
 
-Let's imagine that you were assigned to the new Test Automation  Initiative. The product is mature enough but has little or even none automated-checks coverage. Product codebase consists of thousands (if not hundreds of thousands) lines of code, and building a proper Agile Testing Pyramid is not an option anymore.
+Let's imagine that you were assigned to the new Test Automation Initiative. The product is mature enough but has little or even none automated-checks coverage. Product codebase consists of thousands (if not hundreds of thousands) lines of code, and building a proper [Agile Testing Pyramid](../pyramid) is not an option anymore.
 
 
-Even though it is clear that most of the automated-checks should be written on the unit level, writing them may be a challenging task. When writing testable code is not among the top project goals - codebase tends to become rather untestable.
+Conventional wisdowm suggests that most of the automated-checks should be written on the unit level, writing them may be a challenging task. When writing testable code is not among the top project goals - codebase tends to become rather untestable.
 
 
 Under such circumstances, Test Automation Engineers usually consider the only option which seems to be viable, which is to rely on the system-level automated checks (for example - UL-level checks), which often leads to the "Ice-cream" antipattern [1]. However, there're some other options. While it may be already too late to build highly effective automated-check suite, there're some good approaches to minimize reliance on system-level checking. One approach which may be very helpful in the situation like this is called "Feature tests model".
